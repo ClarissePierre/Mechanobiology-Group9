@@ -7,6 +7,7 @@
 | Segmentation  | Segmentation.ipynb |
 | Tracking      | Tracking_final.ipynb |
 | Flow field analysis | PIVlab_set_nadimdaher_WT.mat |
+| Tracking CSV | Tracking_csv |
 
 ## External Link
 
@@ -28,7 +29,8 @@ Check `Segmentation_df.csv`.
 | `nop`   | Nematic order heatmaps | 800 x 800 |
 | `nop_*_overlay` | Nematic order heatmaps overlay with `raw_image` | 800 x 800 |
 
-Link to the tracking movies:
+### Tracking Movies
+
 https://drive.google.com/drive/folders/1nXVFGmU8_81pbB76DCliFdZBKipcfzs3?usp=share_link
 
 
