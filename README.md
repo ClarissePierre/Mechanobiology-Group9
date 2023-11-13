@@ -4,9 +4,9 @@
 
 | Functionality | Link to file |
 | ------------- | ------------ |
-| Segmentation  | Segmentation.ipynb |
-| Tracking      | Tracking_final.ipynb |
-| Flow field analysis | PIVlab_set_nadimdaher_WT.mat |
+| Segmentation  | [Segmentation.ipynb](./Segmentation.ipynb) |
+| Tracking      | [Tracking_final.ipynb](./Tracking_final.ipynb) |
+| Flow field analysis | [PIVlab_set_nadimdaher_WT.mat](./PIVlab_set_nadimdaher_WT.mat) |
 | Tracking CSV | Tracking_csv |
 
 ## External Link
