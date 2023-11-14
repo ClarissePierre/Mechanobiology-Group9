@@ -1,5 +1,7 @@
 # Bacterial Mechanotaxis: Tracking Group Behaviors (ME-480 Group 9 Project 1)
 
+Present our code as notebooks as well as links to our segmentation data, our segmentations images/masks, our tracking movies and our velocities/orientations csv as detailed in the report.
+
 ## Internal Link
 
 | Functionality | Link to file |
@@ -29,7 +31,7 @@ Check `Segmentation_df.csv`.
 | `nop`   | Nematic order heatmaps | 800 x 800 |
 | `nop_*_overlay` | Nematic order heatmaps overlay with `raw_image` | 800 x 800 |
 
-### Tracking Movies
+### Tracking Movies & Velocity/Orientation csv
 
 https://drive.google.com/drive/folders/1nXVFGmU8_81pbB76DCliFdZBKipcfzs3?usp=share_link
 
